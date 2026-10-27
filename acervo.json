@@ -1,0 +1,290 @@
+[
+  {
+    "id": "item-001",
+    "title": "Caldeirão de Ferro Fundido",
+    "code": "UTN-013",
+    "category": "Utensílios Domésticos / Gastronomia",
+    "description": "Caldeirão clássico com pés e alça de fixação, fabricado em ferro fundido pesado.\n\nData aproximada: 1950 a 1980.\nÁrea de Procedência: Janaúba/MG.\nForma de Aquisição: Doação.\nDoador(a): Martinha.\nMaterial: Ferro fundido.\n\nContexto Histórico: A produção de utensílios de ferro em Minas Gerais conecta-se ao início da siderurgia no Brasil Colônia (Morro do Pilar e Fazenda Ipanema). O uso de caldeirões de ferro fundido é símbolo consolidado da culinária mineira tradicional.",
+    "images": ["imagens/UTN-013-1.jpg"]
+  },
+  {
+    "id": "item-002",
+    "title": "Panela de Ferro Fundido",
+    "code": "UTN-014",
+    "category": "Utensílios Domésticos / Gastronomia",
+    "description": "Panela rústica em ferro fundido com cabo anatômico curvo integrado.\n\nData aproximada: 1950 a 1980.\nÁrea de Procedência: Janaúba/MG.\nForma de Aquisição: Doação.\nDoador(a): Clemência.\nMaterial: Ferro fundido.\n\nContexto Histórico: Item indispensável nas cozinhas caipiras e fogões a lenha, mantendo o aquecimento uniforme do alimento por longos períodos.",
+    "images": ["imagens/UTN-014-1.jpg", "imagens/UTN-014-2.jpg"]
+  },
+  {
+    "id": "item-003",
+    "title": "Pimenta em Conserva na Garrafa",
+    "code": "UTN-015",
+    "category": "Tradição Culinária & Gastronomia",
+    "description": "Garrafa de vidro transparente selada com rolha de cortiça, contendo mix de pimentas em conserva (malagueta, bode, cumari) imersas em azeite, óleo ou cachaça.\n\nMaterial: Vidro, cortiça, pimentas e cachaça/óleo.\n\nContexto Histórico: Herança gastronômica secular brasileira. O meio ácido/alcoólico extrai a capsaicina e impede o surgimento de bactérias, sendo o método pré-industrial de preservação da colheita. Também usada nas janelas como amuleto de proteção e fartura.",
+    "images": ["imagens/UTN-015-1.jpg"]
+  },
+  {
+    "id": "item-004",
+    "title": "Pilão de Mesa Torneado com Soquete",
+    "code": "UTN-016",
+    "category": "Utensílios Domésticos / Gastronomia",
+    "description": "Conjunto de pilão de mesa e soquete de pequeno porte em madeira clara torneada, com frisos decorativos queimados por fricção (pirogradação).\n\nMaterial: Madeira nobre torneada.\n\nContexto Técnico: A maceração física no pilão esmaga mecanicamente as paredes celulares de alho e temperos, liberando óleos essenciais sem oxidá-los como nos liquidificadores modernos.",
+    "images": ["imagens/UTN-016-1.jpg"]
+  },
+  {
+    "id": "item-005",
+    "title": "Tábua de Corte Rústica de Madeira Maciça",
+    "code": "UTN-017",
+    "category": "Utensílios Domésticos / Marcenaria",
+    "description": "Tábua de corte confeccionada em peça única de madeira maciça com cabo ergonômico perfurado e canaleta rebaixada para retenção de líquidos.\n\nMaterial: Madeira maciça (bloco cego).\n\nContexto Histórico: Produzida em marcenarias rurais aproveitando sobras de madeira nobre (peroba-rosa, cedro, jatobá). Suas propriedades antibacterianas naturais garantiam durabilidade por décadas.",
+    "images": ["imagens/UTN-017-1.jpg"]
+  },
+  {
+    "id": "item-006",
+    "title": "Pilão / Soquete de Grande Porte",
+    "code": "UTN-018",
+    "category": "Engenho Rural & Trabalho Agrícola",
+    "description": "Soquete de grande dimensão entalhado manualmente a partir de tora de madeira maciça de alta densidade (Aroeira, Jacarandá ou Braúna).\n\nMaterial: Madeira maciça de lei.\n\nContexto Histórico: Usado em pilões de cova para pilar milho (fubá/canjica), descascar café e fazer paçoca de carne de sol. Deu origem aos 'cantos de pilão', ritmos de trabalho coletivo entoados pelos trabalhadores.",
+    "images": ["imagens/UTN-018-1.jpg"]
+  },
+  {
+    "id": "item-007",
+    "title": "Bule de Alumínio Fundido / Polido",
+    "code": "UTN-019",
+    "category": "Utensílios Domésticos",
+    "description": "Bule de cozinha em alumínio polido de parede espessa (3 a 5 mm), com bico curvo soldado e alça fixa em baquelite preta.\n\nMaterial: Alumínio fundido e baquelite.\n\nContexto Histórico: Ícone das cozinhas brasileiras do século XX. A alta espessura do alumínio retém o calor por muito tempo sobre fogões a lenha, ideal para o café coado na hora.",
+    "images": ["imagens/UTN-019-1.jpg"]
+  },
+  {
+    "id": "item-008",
+    "title": "Gamela de Madeira com Ralador de Mandioca",
+    "code": "UTN-020",
+    "category": "Casas de Farinha & Engenho",
+    "description": "Grande recipiente oval escavado em bloco de madeira maciça, equipado em uma das extremidades com chapa de ferro perfurada de dentro para fora.\n\nMaterial: Madeira maciça e chapa de ferro perfurada.\n\nContexto Histórico: Ferramenta central nas casas de farinha para ralar mandioca e milho verde na produção de polvilho, farinha, curau e pamonha no Sertão.",
+    "images": ["imagens/UTN-020-1.jpg"]
+  },
+  {
+    "id": "item-009",
+    "title": "Prato Fundo / Assadeira de Barro Vermelho",
+    "code": "UTN-021",
+    "category": "Olaria Utilitária & Gastronomia",
+    "description": "Assadeira oval com alças laterais moldadas, confeccionada em barro vermelho com acabamento alisado e queimada em alta temperatura.\n\nMaterial: Cerâmica / Argila terracota.\n\nContexto Histórico: Típica da olaria utilitária mineira. Retém a temperatura dos alimentos por longo período, tradicional para servir tutus, feijoadas e assados.",
+    "images": ["imagens/UTN-021-1.jpg"]
+  },
+  {
+    "id": "item-010",
+    "title": "Cuia Grande de Cabaça com Cabo",
+    "code": "UTN-022",
+    "category": "Utensílios Domésticos Tradicionais",
+    "description": "Recipiente profundo feito da casca seca da cabaça (Lagenaria siceraria) cortada longitudinalmente, aproveitando a extensão estreita como cabo anatômico.\n\nMaterial: Cabaça natural seca.\n\nContexto Histórico: A 'vasilha universal' da vida no campo. Usada para retirar água do pote de barro, lavar grãos, servir refeições ou no banho.",
+    "images": ["imagens/UTN-022-1.jpg"]
+  },
+  {
+    "id": "item-011",
+    "title": "Pote Cerâmico Rústico de Boca Ampla",
+    "code": "UTN-023",
+    "category": "Olaria Ancestral",
+    "description": "Pote cerâmico feito à mão com argila local rústica e queimado diretamente no fogo, apresentando marcas sutis de fuligem.\n\nMaterial: Argila terracota sem esmalte químico.\n\nContexto Histórico: Recipiente ancestral para armazenar mantimentos secos (milho, feijão, farinha) ou conservação de banha de porco.",
+    "images": ["imagens/UTN-023-1.jpg"]
+  },
+  {
+    "id": "item-012",
+    "title": "Pote de Barro Refrigerador de Água",
+    "code": "UTN-024",
+    "category": "Olaria Tradicional & Vida Sertaneja",
+    "description": "Vasilha bojudil de base afunilada em barro vermelho terracota sem esmalte químico.\n\nMaterial: Cerâmica / Barro poroso.\n\nContexto Técnico (Resfriamento Evaporativo): A microporosidade do barro permite que a umidade perpasse para a parede externa. Ao evaporar com o ar, retira calor do interior mantendo a água sempre fresca. Era o 'refrigerador natural' das casas sertanejas.",
+    "images": ["imagens/UTN-024-1.jpg"]
+  },
+  {
+    "id": "item-013",
+    "title": "Máquina de Escrever Remington 33 L",
+    "code": "TEC-001",
+    "category": "Comunicação & Escrita",
+    "description": "Máquina de escrever mecânica portátil com carcaça bicolor em tom creme/bege, teclado preto com acentuação em português e estojo de transporte em plástico fosco.\n\nMaterial: Plástico rígido, ferro e fita entintada.\n\nContexto Histórico: Modelo portátil das décadas de 1970/80 projetado para estudantes, advogados e jornalistas antes da chegada dos computadores.",
+    "images": ["imagens/TEC-001-1.jpg"]
+  },
+  {
+    "id": "item-014",
+    "title": "Rádio Toca-Fitas Portátil",
+    "code": "AUD-001",
+    "category": "Som & Áudio / Séc. XX",
+    "description": "Aparelho reprodutor de som com rádio AM/FM e leitor de fita K7 cassete.\n\nData aproximada: Décadas de 1970 a 1980.\nÁrea de Procedência: Janaúba/MG.\nForma de Aquisição: Doação.\nDoador(a): Gilmarques / Jogataria de Quadros.\nMaterial: Plástico e componentes eletrônicos.\n\nContexto Histórico: A fita cassete foi inventada pela Philips em 1963. No Brasil, rádios gravadores de fita K7 tornaram-se o grande fenômeno musical jovem dos anos 70 e 80.",
+    "images": ["imagens/AUD-001-1.jpg"]
+  },
+  {
+    "id": "item-015",
+    "title": "Vídeo Cassete VHS Philco",
+    "code": "VID-001",
+    "category": "Eletrônicos & Imagem",
+    "description": "Aparelho reprodutor e gravador de fitas de vídeo no formato VHS.\n\nData aproximada: Anos 1980.\nÁrea de Procedência: Janaúba/MG.\nForma de Aquisição: Doação.\nDoador(a): Eugênio Nunes.\nMaterial: Plástico e circuitos eletrônicos.\n\nContexto Histórico: O videocassete chegou fortemente ao Brasil a partir de 1982, revolucionando o consumo audiovisual com a era das locadoras de filmes.",
+    "images": ["imagens/VID-001-1.jpg"]
+  },
+  {
+    "id": "item-016",
+    "title": "Televisão de Tubo Sanyo / Zé Mineiro",
+    "code": "TEC-002",
+    "category": "Eletrônicos & Imagem",
+    "description": "Televisor com tela de tubo de raios catódicos (CRT) em carcaça plástica escura.\n\nData aproximada: Anos 1990.\nÁrea de Procedência: Janaúba/MG.\nForma de Aquisição: Doação.\nDoador(a): Zé Mineiro.\nMaterial: Vidro, plástico e componentes eletrônicos.",
+    "images": ["imagens/TEC-002-1.jpg"]
+  },
+  {
+    "id": "item-017",
+    "title": "Telefone Fixo de Disco Bege (Telebrás)",
+    "code": "TEL-001",
+    "category": "Telecomunicações",
+    "description": "Telefone fixo residencial bege em plástico ABS rígido com disco giratório numérico transparente por interrupção de pulso.\n\nData aproximada: Décadas de 1970 a 1980.\nMaterial: Plástico ABS, metal e fiação espiralada.\n\nContexto Histórico: Padrão das comunicações no Brasil na era Telebrás. Ter uma linha fixa era patrimônio de alto valor declarado no Imposto de Renda.",
+    "images": ["imagens/TEL-001-1.jpg"]
+  },
+  {
+    "id": "item-018",
+    "title": "Computador Desktop com Monitor LG Flatron",
+    "code": "TEC-003",
+    "category": "Informática Clássica",
+    "description": "Conjunto de computador pessoal composto por monitor CRT LG Flatron de tela de vidro totalmente plana e teclado PS/2 de membrana.\n\nData aproximada: Final dos anos 1990 a 2005.\nMaterial: Metal, vidro, plástico rígido e eletrônicos.\n\nContexto Histórico: A linha Flatron eliminou a distorção geométrica dos monitores curvos antigos, representando a transição para a era digital moderna.",
+    "images": ["imagens/TEC-003-1.jpg"]
+  },
+  {
+    "id": "item-019",
+    "title": "Sirene / Alarme Industrial de Ferro Fundido",
+    "code": "TEC-004",
+    "category": "Equipamentos Industriais Antigos",
+    "description": "Dispositivo sonoro de grande porte em metal fundido com motor elétrico interno de alta rotação (3000-5000 RPM) e grelhas de difusão de som.\n\nData aproximada: Décadas de 1940 a 1970.\nMaterial: Ferro fundido e componentes elétricos.\n\nContexto Histórico: Instalada no topo de galpões industriais e quartéis de bombeiros para alarme e marcação de troca de turnos de trabalho.",
+    "images": ["imagens/TEC-004-1.jpg"]
+  },
+  {
+    "id": "item-020",
+    "title": "Cabeça do Bumba-Meu-Boi de Verdelândia",
+    "code": "FOL-001",
+    "category": "Tradição & Folclore Gorutubano",
+    "description": "Estrutura do boi montada com armação de ferro, espuma esculpida, revestimento em tecido colorido e o crânio ósseo real de uma cabeça bovina.\n\nÁrea de Procedência: Verdelândia/MG (Vale do Gorutuba).\nForma de Aquisição: Doação.\nDoador(a): Sr. Weltin.\nMaterial: Ferro, osso bovino, espuma e adereços.\n\nContexto Histórico: Peça central da brincadeira folclórica do boi conduzida pelo 'miolo' (brincante oculto). Dramatiza o mito do desejo de Catirina e a ressurreição do boi.",
+    "images": ["imagens/FOL-001-1.jpg"]
+  },
+  {
+    "id": "item-021",
+    "title": "Estandarte do Imaculado Coração de Maria",
+    "code": "REL-001",
+    "category": "Religiosidade Popular & Festas",
+    "description": "Painel de tecido azul com passamanarias douradas e gravura do Coração de Maria, com fitas de cetim coloridas pendentes na base.\n\nMaterial: Tecido, galões dourados e fitas de cetim.\n\nContexto Histórico: Insígnia religiosa usada à frente de procissões da Folia de Reis, Congadas e Festas Juninas. As fitas representam promessas e graças alcançadas.",
+    "images": ["imagens/REL-001-1.jpg"]
+  },
+  {
+    "id": "item-022",
+    "title": "Traje Tradicional da Mulher Gorutubana",
+    "code": "VES-001",
+    "category": "Vestuário & Identidade Cultural",
+    "description": "Traje composto por blusa leve de algodão branco com bordados no decote, saia preta rodada e lenço estampado amarrado na cabeça.\n\nÁrea de Procedência: Janaúba/MG.\nForma de Aquisição: Doação.\nDoador(a): Regina Bispo de Oliveira.\nMaterial: Tecido de algodão.\n\nContexto Histórico: Vestimenta típica das mulheres do sertão mineiro. O lenço protegia o rosto do sol forte nas tarefas do campo.",
+    "images": ["imagens/VES-001-1.jpg"]
+  },
+  {
+    "id": "item-023",
+    "title": "Vestido de Chita Tradicional Junino",
+    "code": "VES-002",
+    "category": "Vestuário & Festas Populares",
+    "description": "Vestido infantil confeccionado em chita com estampa floral colorida viva, saia de babados em camadas ('marias'), rendas e fitas de cetim.\n\nMaterial: Chita de algodão, rendas e cetim.\n\nContexto Histórico: Traje emblemático das festas de São João. A chita é o grande símbolo da alegria e estética caipira.",
+    "images": ["imagens/VES-002-1.jpg"]
+  },
+  {
+    "id": "item-024",
+    "title": "Carranca de Madeira do Velho Chico",
+    "code": "ART-001",
+    "category": "Arte Popular & Escultura",
+    "description": "Escultura antropozoomórfica entalhada em tronco de madeira e policromada à mão, com olhos arregalados, presas e língua vermelha projetada.\n\nMaterial: Madeira entalhada e tinta.\n\nContexto Histórico: Afixada na proa das barcaças do Rio São Francisco para afastar maus espíritos e o Caboclo d'Água, eternizada por mestres como Mestre Guarany.",
+    "images": ["imagens/ART-001-1.jpg"]
+  },
+  {
+    "id": "item-025",
+    "title": "Arreio de Cabeça para Montaria (Freio e Rédea)",
+    "code": "AGR-001",
+    "category": "Vida Rural & Selaria",
+    "description": "Equipamento de couro bovino curtido ajustável por fivelas, acoplado a freio de ferro trabalhado com corrente de contenção.\n\nMaterial: Couro bovino e ferro forjado.\n\nContexto Histórico: Artefato central dos vaqueiros e tropeiros para condução de cavalos e mulas no transporte de carga e manejo do gado no Sertão.",
+    "images": ["imagens/AGR-001-1.jpg"]
+  },
+  {
+    "id": "item-026",
+    "title": "Vassoura Artesanal de Capim / Alecrim-do-Campo",
+    "code": "UTN-025",
+    "category": "Artesanato & Utilidades Domésticas",
+    "description": "Vassoura de feixe denso de plantas nativas secas amarradas firmemente ao redor de um cabo longo de madeira rústica.\n\nMaterial: Fibras vegetais do Cerrado e madeira.\n\nContexto Histórico: Utensílio para limpeza dos 'terreiros' de terra batida e pisos de madeira, aproveitando recursos sustentáveis da flora local.",
+    "images": ["imagens/UTN-025-1.jpg"]
+  },
+  {
+    "id": "item-027",
+    "title": "Peneira (Arupemba) de Taquara / Bambu",
+    "code": "UTN-026",
+    "category": "Artesanato & Trabalho Doméstico",
+    "description": "Peneira circular com trama de talas trançadas de bambu/taquara e aro reforçado com arame.\n\nÁrea de Procedência: Janaúba/MG.\nMaterial: Taquara/Bambu trançado.\n\nContexto Histórico: Artefato de matriz indígena para joeirar e catar grãos de feijão, milho e café nas roças e casas de farinha.",
+    "images": ["imagens/UTN-026-1.jpg"]
+  },
+  {
+    "id": "item-028",
+    "title": "Colher de Pau Esculpida para Tacho",
+    "code": "UTN-027",
+    "category": "Utensílios Domésticos",
+    "description": "Utensílio culinário esculpido em bloco único de madeira maciça, com cabo longo e concha ovalada.\n\nMaterial: Madeira maciça.\n\nContexto Histórico: Usada para doces de tacho, angu e feijão tropeiro. A madeira não conduz calor e preserva panelas de ferro e barro.",
+    "images": ["imagens/UTN-027-1.jpg"]
+  },
+  {
+    "id": "item-029",
+    "title": "Coador de Pano para Café Coado",
+    "code": "UTN-028",
+    "category": "Utensílios Domésticos",
+    "description": "Filtro cônico em tecido de algodão branco preso a um aro metálico flexível com cabo anatômico de madeira.\n\nMaterial: Algodão cru e madeira.\n\nContexto Histórico: Símbolo máximo da hospitalidade e acolhida sertaneja para o café passado na hora sobre o fogão a lenha.",
+    "images": ["imagens/UTN-028-1.jpg"]
+  },
+  {
+    "id": "item-030",
+    "title": "Escovão de Ferro Fundido para Encerar",
+    "code": "UTN-029",
+    "category": "Utensílios Domésticos Antigos",
+    "description": "Utensílio pesado em ferro fundido para lustrar e dar brilho em assoalhos de madeira e tacos.\n\nData aproximada: 1940 a 1960.\nÁrea de Procedência: Janaúba/MG.\nForma de Aquisição: Doação.\nDoador(a): Doga.\nMaterial: Ferro fundido.",
+    "images": ["imagens/UTN-029-1.jpg"]
+  },
+  {
+    "id": "item-031",
+    "title": "Descaroçador Manual de Milho (Black Hawk)",
+    "code": "AGR-002",
+    "category": "Ferramentas & Trabalho Agrícola",
+    "description": "Utensílio mecânico de ferro acionado por manivela manual para debulhar espigas de milho.\n\nData aproximada: Início do Séc. XX.\nÁrea de Procedência: Jaíba/MG.\nForma de Aquisição: Doação.\nDoador(a): Ivone Queiroz.\nMaterial: Ferro fundido.",
+    "images": ["imagens/AGR-002-1.jpg"]
+  },
+  {
+    "id": "item-032",
+    "title": "Ferro de Passar à Brasa com Chaminé",
+    "code": "UTN-030",
+    "category": "Utensílios Domésticos Antigos",
+    "description": "Ferro de engomar em corpo oco de ferro fundido para carvão em brasa com trava superior e cabo de madeira.\n\nData aproximada: Fim do Séc. XIX ao início do Séc. XX.\nÁrea de Procedência: Janaúba/MG.\nForma de Aquisição: Doação.\nDoador(a): Ivanete Nunes.\nMaterial: Ferro fundido e madeira.",
+    "images": ["imagens/UTN-030-1.jpg"]
+  },
+  {
+    "id": "item-033",
+    "title": "Rádio à Pilha com Capa de Couro",
+    "code": "AUD-002",
+    "category": "Som & Áudio",
+    "description": "Rádio portátil a pilhas protegido por capa de couro original com perfurações para saída de som.\n\nData aproximada: Anos 1960 a 1970.\nÁrea de Procedência: Janaúba/MG.\nForma de Aquisição: Doação.\nDoador(a): Martinha.\nMaterial: Plástico, couro e eletrônicos.",
+    "images": ["imagens/AUD-002-1.jpg"]
+  },
+  {
+    "id": "item-034",
+    "title": "Caneca Esmaltada de Ágata Florada",
+    "code": "UTN-031",
+    "category": "Utensílios Domésticos",
+    "description": "Caneca utilitária em aço esmaltado branco com estampas florais vermelhas e friso preto.\n\nData aproximada: Séc. XX.\nÁrea de Procedência: Jaíba/MG.\nForma de Aquisição: Doação.\nDoador(a): Ivone Queiroz.\nMaterial: Aço esmaltado.",
+    "images": ["imagens/UTN-031-1.jpg"]
+  },
+  {
+    "id": "item-035",
+    "title": "Telhas Coloniais Ceramicas Artesanais",
+    "code": "ARQ-001",
+    "category": "Arquitetura Colonial",
+    "description": "Telhas canal de cerâmica moldadas manualmente e queimadas em olaria para cobertura de casas antigas.\n\nData aproximada: 1920 a 1940.\nÁrea de Procedência: Janaúba/MG.\nForma de Aquisição: Doação.\nDoador(a): Diva.\nMaterial: Cerâmica rústica.",
+    "images": ["imagens/ARQ-001-1.jpg"]
+  },
+  {
+    "id": "item-036",
+    "title": "Cabideiro Decorativo Verde com Girassóis",
+    "code": "DEC-001",
+    "category": "Decoração Doméstica",
+    "description": "Suporte retangular de madeira verde com entalhes de girassóis e ganchos de ferro para panos de copa.\n\nMaterial: Madeira pintada e ferro.",
+    "images": ["imagens/DEC-001-1.jpg"]
+  }
+]
